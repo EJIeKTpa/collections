@@ -1,6 +1,6 @@
-package ru.kk.task9week._main;
+package ru.kk.collections._main;
 
-import ru.kk.task9week.entity.Animal;
+import ru.kk.collections.entity.Animal;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;

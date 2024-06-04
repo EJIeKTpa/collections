@@ -1,4 +1,4 @@
-package ru.kk.task9week.entity;
+package ru.kk.collections.entity;
 
 public class Animal {
     private String name;
